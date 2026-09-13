@@ -1,166 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&text=K%20Sathwik%20Karanth&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Final-Year%20CSE%20Student%20%7C%20Full-Stack%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://github.com/ksathwik-93">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+in+the+Making;Building+ML-Powered+Fraud+Detection+Systems;IoT+%2B+Embedded+Systems+Enthusiast;Turning+Ideas+Into+Real+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+in+the+Making;Building+ML-Powered+Fraud+Detection+Systems;IoT+%2B+Embedded+Systems+Enthusiast;Turning+Ideas+Into+Real+Applications" alt="Typing SVG" />
 </a>
+
+<h1>K Sathwik Karanth</h1>
+<p><i>Final-Year CSE Student | Full-Stack & ML Enthusiast</i></p>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-38BDF8?style=for-the-badge&logo=briefcase&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-0EA5E9?style=for-the-badge&logo=briefcase&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=ksathwik-93&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/ksathwik-93?label=Followers&style=flat&color=38BDF8" alt="Followers" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3&width=1000" width="100%"/>
+
 </div>
 
 <br/>
 
-## 👨‍💻 Who I Am
+## 👋 About Me
 
-```typescript
-const sathwik = {
-  title: "Final-Year Computer Science & Engineering Student",
-  location: "Mangaluru, Karnataka, India",
-  education: "B.E. in CSE, A J Institute of Engineering & Technology (CGPA: 8.2)",
-  stack: {
-    languages: ["Java", "Python", "C", "HTML", "CSS", "JavaScript", "Dart"],
-    frameworks: ["Flutter", "Flask"],
-    databases: ["MongoDB", "MySQL", "SQLite"],
-    tools: ["Google Cloud Platform", "Git", "GitHub", "Docker", "Jenkins", "Gradle", "Arduino", "LaTeX"],
-    concepts: ["Machine Learning", "Artificial Intelligence", "Operating Systems", "DSA"],
-    designAndViz: ["Figma", "Canva", "Matplotlib", "Seaborn", "Plotly"],
-  },
-  launchedProjects: [
-    "Online Payment Fraud Detection",
-    "Women Safety Management System using IoT",
-    "Smart Home Automation System",
-  ],
-  certifications: [
-    "Tech A Java Developer Certification — Infosys Springboard",
-    "VLSI Digital Design — Infosys Springboard",
-    "Generative AI for All — Infosys Springboard",
-    "AI & Cloud Cybersecurity: Building Digital Systems Workshop",
-    "Internet of Things (IoT) Workshop",
-  ],
-  status: "Building ML-powered and IoT-driven projects while sharpening full-stack skills 🚀",
-  openTo: ["Full-Stack Development Roles", "Software Engineering Internships", "Collaborative Projects"],
-};
-```
+I'm a final-year **Computer Science & Engineering** student at **A J Institute of Engineering & Technology, Mangaluru** (CGPA: 8.2), passionate about full-stack web development, machine learning, and IoT-based systems. I enjoy building real-world applications and continuously exploring new technologies.
+
+**📍 Location:** Mangaluru, Karnataka, India
+**🎓 Education:** B.E. in CSE — A J Institute of Engineering & Technology
+**💡 Currently:** Building ML-powered and IoT-driven projects while sharpening full-stack skills 🚀
+**🎯 Open to:** Full-Stack Development Roles · Software Engineering Internships · Collaborative Projects
+
+### 🧩 My Skill Set
+
+| Category | Skills |
+|---|---|
+| **Languages** | Java, Python, C, HTML, CSS, JavaScript, Dart |
+| **Frameworks** | Flutter, Flask |
+| **Databases** | MongoDB, MySQL, SQLite |
+| **Tools** | Google Cloud Platform, Git, GitHub, Docker, Jenkins, Gradle, Arduino, LaTeX |
+| **Concepts** | Machine Learning, Artificial Intelligence, Operating Systems, DSA |
+| **Design & Viz** | Figma, Canva, Matplotlib, Seaborn, Plotly |
+
+### 🚀 Projects I've Built
+
+- **Online Payment Fraud Detection** — ML-based fraud detection system deployed via Flask
+- **Women Safety Management System using IoT** — Wearable safety device with GPS/GSM emergency alerts
+- **Smart Home Automation System** — IoT home automation using Arduino & ESP8266
+
+### 📜 Certifications
+
+- Tech A Java Developer Certification — Infosys Springboard
+- VLSI Digital Design — Infosys Springboard
+- Generative AI for All — Infosys Springboard
+- AI & Cloud Cybersecurity: Building Digital Systems Workshop
+- Internet of Things (IoT) Workshop
 
 <br/>
-
-## 🚀 Featured Projects
-
-### 🔒 Online Payment Fraud Detection
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksathwik-93&repo=online-payment-fraud-detection&theme=nord&border_color=38BDF8&title_color=38BDF8" alt="Online Payment Fraud Detection"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3&width=1000" width="100%"/>
 </div>
-
-Built a fraud detection system using Random Forest and Logistic Regression on transactional datasets, achieving ~97% accuracy. Handled class imbalance with SMOTE and deployed a Flask-based web app for real-time transaction classification.
-
-| Layer | Technology |
-|---|---|
-| ML Models | Random Forest, Logistic Regression |
-| Data Handling | SMOTE, Feature Engineering |
-| Backend | Flask |
-| Language | Python |
-
-🔗 **Live:** _Coming soon_ &nbsp;•&nbsp; 💻 **Code:** [online-payment-fraud-detection](https://github.com/ksathwik-93/online-payment-fraud-detection)
-
-<br/>
-
-### 🚨 Women Safety Management System using IoT
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksathwik-93&repo=women-safety-management-system-iot&theme=nord&border_color=38BDF8&title_color=38BDF8" alt="Women Safety Management System using IoT"/>
-</div>
-
-Developed a wearable safety device using Arduino, GPS, and GSM modules to send emergency alerts with live location tracking, including SOS/panic-button functionality for instant communication with pre-configured emergency contacts.
-
-| Layer | Technology |
-|---|---|
-| Hardware | Arduino, GPS Module, GSM Module |
-| Functionality | SOS/Panic Button, Live Location Tracking |
-| Focus | Low-Power Embedded Design |
-
-🔗 **Live:** _Coming soon_ &nbsp;•&nbsp; 💻 **Code:** [women-safety-management-system-iot](https://github.com/ksathwik-93/women-safety-management-system-iot)
-
-<br/>
-
-### 🏠 Smart Home Automation System
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksathwik-93&repo=smart-home-automation-system&theme=nord&border_color=38BDF8&title_color=38BDF8" alt="Smart Home Automation System"/>
-</div>
-
-Designed an IoT-based home automation system using Arduino, ESP8266, and Blynk for remote control of household appliances, with motion, temperature, and light sensors enabling intelligent, automated device switching over Wi-Fi.
-
-| Layer | Technology |
-|---|---|
-| Hardware | Arduino, ESP8266 |
-| Platform | Blynk |
-| Sensors | Motion, Temperature, Light |
-
-🔗 **Live:** _Coming soon_ &nbsp;•&nbsp; 💻 **Code:** [smart-home-automation-system](https://github.com/ksathwik-93/smart-home-automation-system)
 
 <br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js,dart)
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,dart" width="240"/>
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=flutter,html,css,js)
+<img src="https://skillicons.dev/icons?i=flutter,html,css,js" width="150"/>
 
 **Backend & Infra**
 
-![Skills](https://skillicons.dev/icons?i=flask,git,github,docker,jenkins,gradle)
+<img src="https://skillicons.dev/icons?i=flask,git,github,docker,jenkins,gradle" width="210"/>
 
 **Cloud**
 
-![Skills](https://skillicons.dev/icons?i=gcp)
+<img src="https://skillicons.dev/icons?i=gcp" width="42"/>
 
 **AI / Database**
 
-![Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,sklearn)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,sklearn" width="150"/>
 
 **Design & Dev Tools**
 
-![Skills](https://skillicons.dev/icons?i=figma,latex,arduino)
+<img src="https://skillicons.dev/icons?i=figma,latex,arduino" width="115"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3&width=1000" width="100%"/>
+</div>
+
+<br/>
+
+## 🎯 Currently Exploring
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=flat-square&logo=scikitlearn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-38BDF8?style=flat-square&logo=openai&logoColor=white)
+![Full Stack Dev](https://img.shields.io/badge/Full--Stack%20Dev-0EA5E9?style=flat-square&logo=react&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT%20Systems-38BDF8?style=flat-square&logo=arduino&logoColor=white)
+
+</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksathwik-93&show_icons=true&theme=nord&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksathwik-93&layout=compact&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ksathwik-93&theme=nord&border=38BDF8&ring=38BDF8&fire=38BDF8" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ksathwik-93&theme=nord" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
 
-## 🏆 Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ksathwik-93&no-frame=true&no-bg=true&theme=nord" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksathwik-93&theme=react-dark&hide_border=true&color=38BDF8&line=38BDF8&point=ffffff" alt="Contribution Activity Graph"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3&width=1000" width="100%"/>
 </div>
 
 <br/>
@@ -169,16 +133,19 @@ Designed an IoT-based home automation system using Arduino, ESP8266, and Blynk f
 
 <div align="center">
   <a href="https://linkedin.com/in/k-sathwik-k-739a0a38a/">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sathwikkaranth93@gmail.com">
     <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ksathwik-93">
-    <img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 <br/>
 
+<div align="center">
+  <i>💡 "Code, break, learn, repeat."</i>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer" width="100%"/>
